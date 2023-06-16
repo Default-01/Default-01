@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Default!</h1>
-<h3 align="center">A front-end and back-end developer!</h3>
+<p align="center"> 
+<img src="https://imgur.com/KMHe2C7.png" alt="header"/>
+</p>
+
+<h3 align="left">My Information:</h3>
 
 - 🔭 I’m currently working on [Discord Bots](https://discord.gg/5xEwm8e6Vy)
 
