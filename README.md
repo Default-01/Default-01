@@ -1,6 +1,10 @@
 <p align="center"> 
-<img src="https://imgur.com/KMHe2C7.png" alt="header"/>
+<img src="https://imgur.com/KMHe2C7.png" alt="header" usemap="#image-map"/>
 </p>
+
+<map name="image-map">
+    <area target="" alt="" title="" href="https://imgur.com/KMHe2C7" coords="3670,1055,584,105" shape="rect">
+</map>
 
 <h3 align="left">My Information:</h3>
 
