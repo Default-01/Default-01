@@ -1,33 +1,39 @@
 <p align="center"> 
-<img src="https://imgur.com/KMHe2C7.png" alt="header" usemap="#image-map"/>
+<img src="https://imgur.com/KMHe2C7.png" alt="header"/>
 </p>
 
-<map name="image-map">
-    <area target="" alt="" title="" href="https://imgur.com/KMHe2C7" coords="3670,1055,584,105" shape="rect">
-</map>
+<p align="left"> 
+<br>
+<img src="https://imgur.com/Z7ygiBb.png" alt="header" width="300px"/>
+</p>
 
-<h3 align="left">My Information:</h3>
+**- 🔭 I’m currently working on [Discord Bots](https://discord.gg/5xEwm8e6Vy)**
 
-- 🔭 I’m currently working on [Discord Bots](https://discord.gg/5xEwm8e6Vy)
+**- 🌱 I’m currently learning `React.js`**
 
-- 🌱 I’m currently learning **React.js**
+**- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Default-01?tab=repositories)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Default-01?tab=repositories](https://github.com/Default-01?tab=repositories)
+**- 📝 I regularly write articles on [my site](https://docs.defaultsbotdev.com/blog)**
 
-- 📝 I regularly write articles on [https://docs.defaultsbotdev.com/blog](https://docs.defaultsbotdev.com/blog)
+**- 💬 Ask me about `Node.js`**
 
-- 💬 Ask me about **Node.js**
+**- 📫 How to reach me `discord@default01`**
 
-- 📫 How to reach me **discord@default01**
+<p align="left"> 
+<br>
+<img src="https://imgur.com/Vn1T4JR.png" alt="header" width="200px"/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://docs.defaultsbotdev.com/" target="onedark"><img align="center" src="https://imgur.com/tPqN9b9.png" alt="https://docs.defaultsbotdev.com/" height="30" width="30" /></a>
 <a href="https://discord.gg/5xEwm8e6Vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5xEwm8e6Vy" height="30" width="40" /></a>
 
+<p align="left"> 
+<br>
+<img src="https://imgur.com/FOrAHMY.png" alt="header" width="380px"/>
 </p>
-<h3 align="left">Languages and Tools:</h3>
 
+</p>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -45,7 +51,10 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
-<h3 align="left">My Statistics:</h3>
+<p align="left"> 
+<br>
+<img src="https://imgur.com/eXGThmC.png" alt="header" width="240px"/>
+</p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=default-01&show_icons=true&theme=onedark&locale=en" alt="default-01" /></p>
 
