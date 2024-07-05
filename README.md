@@ -43,6 +43,10 @@
 <img src="https://imgur.com/eXGThmC.png" alt="header" width="240px"/>
 </p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=default-01&show_icons=true&theme=onedark&locale=en" alt="default-01" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Default-01&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Default-01&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Default-01&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=Default-01&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=default-01&theme=onedark" alt="default-01" /></p>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/arkspeedpvp?country.x=NL&locale.x=en_US) 
+
