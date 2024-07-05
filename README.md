@@ -48,5 +48,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Default-01&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Default-01&limit=5&theme=onedark&combine_all_yearly_contributions=true)<br/>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/arkspeedpvp?country.x=NL&locale.x=en_US) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&hide_border=true)](https://paypal.me/https://paypal.me/arkspeedpvp?country.x=NL&locale.x=en_US) 
 
